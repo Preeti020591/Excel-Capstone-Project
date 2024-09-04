@@ -1,4 +1,4 @@
-# Freshco Hypermarket into (MS – EXCEL)
+# EXCEL - Capstone Project
 Freshco Hypermarket in HSR, Bangalore, introduced a home delivery service in 2021 to meet evolving customer needs. To ensure efficiency and customer satisfaction, detailed transaction data was maintained.
 
 Key Tasks Completed:
